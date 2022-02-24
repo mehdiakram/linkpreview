@@ -2,7 +2,7 @@
 
 jQuery plugin for adding live mini-previews to links on hover.
 
-Check out [the demo](https://mehdiakram.github.io/mini-preview/) to see how it looks.
+Check out [the demo](https://mehdiakram.github.io/linkpreview/) to see how it looks.
 
 ## Usage
 
